@@ -68,7 +68,3 @@ Sometimes.
 
 [Telegram](https://t.me/pocketoption_trading_bot)
 
-[YouTube](https://www.youtube.com/channel/UCfVo7aRwQ0M0EV6LeC7R5Gw)
-
-### Donations
-If you want to thank the author for his work, [buy me a coffee](https://buymeacoffee.com/vitaliisviatiuk).
